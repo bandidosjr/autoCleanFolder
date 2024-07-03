@@ -12,7 +12,7 @@ Configurable settings to adjust the age threshold for deletion
 
 ### Prerequisites
 
-Java 8 or higher
+ ☕️ Java 8 or higher
 
 ### Installation
 
