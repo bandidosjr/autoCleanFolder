@@ -17,23 +17,24 @@ Java 8 or higher
 ### Installation
 
 Clone the repository:
-
-git clone https://github.com/yourusername/AutoCleanFolder.git
-
+ ```bash
+1. git clone https://github.com/yourusername/AutoCleanFolder.git
+```
 Navigate to the project directory:
 
+```
 cd AutoCleanFolder
-
+```
 Compile the project:
-
+```
 javac AutoCleanFolder.java
-
+```
 ### Usage
 
 Run the application:
-
+```
 java AutoCleanFolder
-
+```
 Enter the path of the directory you want to clean.
 
 Specify the number of days to determine the age threshold for deletion.
