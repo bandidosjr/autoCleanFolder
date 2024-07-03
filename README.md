@@ -18,7 +18,7 @@ Java 8 or higher
 
 Clone the repository:
  ```bash
-1. git clone https://github.com/yourusername/AutoCleanFolder.git
+git clone https://github.com/yourusername/AutoCleanFolder.git
 ```
 Navigate to the project directory:
 
