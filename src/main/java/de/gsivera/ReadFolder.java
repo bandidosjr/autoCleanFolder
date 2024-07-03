@@ -5,8 +5,10 @@ import java.io.File;
 
 public class ReadFolder {
     public void readAndDisplayFolderContents() {
+        // insert now the exact Path, in the future should be implemented for Win and UNIX to select the folder
         String inputPath = JOptionPane.showInputDialog("Insert the path");
         String folderPath = inputPath;
+
         File folder = new File(folderPath);
         File[] files = folder.listFiles();
 
